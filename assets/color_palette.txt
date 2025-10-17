@@ -1,0 +1,8 @@
+Here are the approximate hex color codes based on the logo image above:
+
+🟧 Orange (background): #F49B1A
+
+🟩 Green (text and outlines): #126C39
+
+🟨 Yellow (pizza base): #F7C948
+
