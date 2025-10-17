@@ -1,4 +1,4 @@
-# 🍕 Pizza Sales Performance Dashboard
+#  Pizza Sales Performance Dashboard
 
 ## 📊 Project Overview
 This project analyzes pizza sales data to uncover key business insights using **SQL**, **Excel**, and **Power BI**.  
@@ -47,4 +47,4 @@ Corporate Colors:
 
 ---
 
-## 📂 Repository Structure
+
